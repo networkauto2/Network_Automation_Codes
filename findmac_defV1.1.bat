@@ -1,6 +1,6 @@
 @echo off
 :loop
-D:\CAC\TB1\Tasks_auto\.venv\Scripts\python.exe findmac_defV1.1.py
+"Your pyhthon setup path or venv virtual environment path such C:\python.exe" findmac_defV1.1.py
 echo -----------------------------------
 echo
 timeout /t 0
